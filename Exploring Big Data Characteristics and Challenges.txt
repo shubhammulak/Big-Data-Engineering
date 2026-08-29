@@ -1,3 +1,11 @@
+Scenario
+You are a data engineer at a rapidly growing e-commerce company. The company is experiencing exponential growth in user data, including transaction logs, clickstream data, and customer reviews. The existing relational database is struggling to handle the volume, velocity, and variety of this data. Your team needs to evaluate whether this qualifies as "Big Data" and identify the key challenges.
+
+Objectives
+Identify the 5Vs of Big Data in the given scenario
+Analyze specific challenges the company faces
+Propose high-level solutions using Hadoop/Spark
+
 1) 5Vs of Big Data
 
 1. Volume
